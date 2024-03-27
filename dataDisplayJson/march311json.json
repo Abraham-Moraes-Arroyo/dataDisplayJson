@@ -1,0 +1,246 @@
+[
+ {
+   "COMMUNITY_AREA": "STATUS",
+   "61": "Open"
+ },
+ {
+   "COMMUNITY_AREA": "",
+   "61": ""
+ },
+ {
+   "COMMUNITY_AREA": "Row Labels",
+   "61": "Count of SR_NUMBER"
+ },
+ {
+   "COMMUNITY_AREA": "Animal Care and Control",
+   "61": "14"
+ },
+ {
+   "COMMUNITY_AREA": "Nuisance Animal Complaint",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Pet Wellness Check Request",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Stray Animal Complaint",
+   "61": "10"
+ },
+ {
+   "COMMUNITY_AREA": "BACP - Business Affairs and Consumer Protection",
+   "61": "13"
+ },
+ {
+   "COMMUNITY_AREA": "Business Complaints",
+   "61": "7"
+ },
+ {
+   "COMMUNITY_AREA": "Cab Feedback",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Consumer Fraud Complaint",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Paid Sick Leave Violation",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Wage Complaint",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "CDOT - Department of Transportation",
+   "61": "72"
+ },
+ {
+   "COMMUNITY_AREA": "Alley Light Out Complaint",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Alley Pothole Complaint",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Inspect Public Way Request",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Pothole in Street Complaint",
+   "61": "20"
+ },
+ {
+   "COMMUNITY_AREA": "Sidewalk Inspection Request",
+   "61": "10"
+ },
+ {
+   "COMMUNITY_AREA": "Sign Repair Request - All Other Signs",
+   "61": "11"
+ },
+ {
+   "COMMUNITY_AREA": "Street Light Out Complaint",
+   "61": "10"
+ },
+ {
+   "COMMUNITY_AREA": "Street Light Pole Damage Complaint",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Traffic Signal Out Complaint",
+   "61": "10"
+ },
+ {
+   "COMMUNITY_AREA": "Viaduct Light Out Complaint",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "City Clerk's Office",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "City Vehicle Sticker Violation",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "DOB - Buildings",
+   "61": "74"
+ },
+ {
+   "COMMUNITY_AREA": "Building Violation",
+   "61": "27"
+ },
+ {
+   "COMMUNITY_AREA": "Buildings - Plumbing Violation",
+   "61": "16"
+ },
+ {
+   "COMMUNITY_AREA": "No Building Permit and Construction Violation",
+   "61": "19"
+ },
+ {
+   "COMMUNITY_AREA": "Vacant/Abandoned Building Complaint",
+   "61": "12"
+ },
+ {
+   "COMMUNITY_AREA": "DWM - Department of Water Management",
+   "61": "32"
+ },
+ {
+   "COMMUNITY_AREA": "Check for Leak",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Low Water Pressure Complaint",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "No Water Complaint",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Sewer Cave-In Inspection Request",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Sewer Cleaning Inspection Request",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Water Lead Test Kit Request",
+   "61": "16"
+ },
+ {
+   "COMMUNITY_AREA": "Water Lead Test Visit Request",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Water On Street Complaint",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Water Quality Concern",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Health",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Pushcart Food Vendor Complaint",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Restaurant Complaint",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Streets and Sanitation",
+   "61": "161"
+ },
+ {
+   "COMMUNITY_AREA": "Abandoned Vehicle Complaint",
+   "61": "47"
+ },
+ {
+   "COMMUNITY_AREA": "Blue Recycling Cart",
+   "61": "11"
+ },
+ {
+   "COMMUNITY_AREA": "Clean and Green Program Request",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Clean Vacant Lot Request",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Dead Bird",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Fly Dumping Complaint",
+   "61": "3"
+ },
+ {
+   "COMMUNITY_AREA": "Garbage Cart Maintenance",
+   "61": "19"
+ },
+ {
+   "COMMUNITY_AREA": "Graffiti Removal Request",
+   "61": "7"
+ },
+ {
+   "COMMUNITY_AREA": "Rodent Baiting/Rat Complaint",
+   "61": "2"
+ },
+ {
+   "COMMUNITY_AREA": "Sanitation Code Violation",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Street Cleaning Request",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Tree Debris Clean-Up Request",
+   "61": "23"
+ },
+ {
+   "COMMUNITY_AREA": "Tree Planting Request",
+   "61": "4"
+ },
+ {
+   "COMMUNITY_AREA": "Tree Removal Request",
+   "61": "36"
+ },
+ {
+   "COMMUNITY_AREA": "Yard Waste Pick-Up Request",
+   "61": "1"
+ },
+ {
+   "COMMUNITY_AREA": "Grand Total",
+   "61": "371"
+ }
+]
